@@ -17,7 +17,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm">
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.php">
                     <img src="_imagens/Logotipo_texto.png" height="80px" alt="Logo da Loja Açaí da Thay">
