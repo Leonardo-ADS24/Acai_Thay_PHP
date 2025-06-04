@@ -53,6 +53,10 @@
     background-color: #74009D !important;
 }
 
+.navbar-brand{
+    padding-left: 30px;
+}
+
 .nav-link {
     font-family: 'Poppins', 'sans-serif';
     font-weight: 400;
@@ -71,10 +75,14 @@
     color: #fff;
 }
 
-.navbar-nav .btn.btn-success{
+.btn-pedidos{
     font-family: 'Poppins', 'sans-serif';
     font-weight: 400;
     font-size: 1rem;
+    color: #f0f0f0;
     background-color: #ff6e61;
 }
 
+.btn-pedidos .a:link{
+    text-decoration: none;
+}

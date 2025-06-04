@@ -4,3 +4,38 @@ h1{
     color: #74009D;
     font-size: 2.5rem;
 }
+
+#Pedidos p, .lead{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #212121;
+}
+
+.btn{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.btn-whatsapp{
+    background-color: rgb(30, 219, 30);
+    border-color: rgba(30, 219, 30, 0.967);
+}
+
+.btn-whatsapp:hover{
+    background-color: rgb(24, 163, 24);
+    border-color: rgb(24, 176, 24);
+}
+
+.btn-ifood{
+    background-color: #EA1D2C;
+    border-color: #de1c29;
+}
+
+.btn-ifood:hover{
+    background-color: #cc1a25;
+    border-color:#a91822;
+}
+
+#Nos{
+    background-color: #F2E2FF;
+}
