@@ -83,6 +83,6 @@
     background-color: #ff6e61;
 }
 
-.btn-pedidos .a:link{
-    text-decoration: none;
+.btn-pedidos:hover{
+    background-color: #ff8d83;
 }

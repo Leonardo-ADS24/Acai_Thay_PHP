@@ -1,11 +1,11 @@
-h1{
+h1, #Produtos h2{
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     color: #74009D;
-    font-size: 2.5rem;
+    font-size: 4.25rem;
 }
 
-#Pedidos p, .lead{
+#Pedidos p, .lead, #Produtos{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: #212121;
@@ -37,5 +37,29 @@ h1{
 }
 
 #Nos{
-    background-color: #F2E2FF;
+    background-color: #8601B7ff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #fff;
+}
+
+#Nos h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 3.25rem;
+    color: #fff;
+}
+
+.btn-sobre, .btn-produtos{
+    background-color: #ff6e61;
+    border-color: #ff402f;
+}
+
+.btn-sobre:hover, .btn-produtos:hover{
+    background-color: #ff8d83;
+    background-color: #ff402f;
+}
+
+#Produtos h2{
+    font-size: 3.25rem;
 }

@@ -43,10 +43,9 @@
                             <a class="nav-link <?php if ($nomePaginaAtual == 'contato.php') echo 'active'; ?>" href="contato.php">Contato</a>
                         </li>
                         <li class="nav-item">
-                        <button class="btn btn-success rounded-pill px-3 btn-pedidos" type="button"> <a href="index.php#Pedidos">Peça Agora</a></button>
+                            <a href="index.php#Pedidos" class="btn btn-success rounded-pill btn-pedidos">Peça Agora</a>
                         </li>
                     </ul>
-                    
                 </div>
             </div>
         </nav>
