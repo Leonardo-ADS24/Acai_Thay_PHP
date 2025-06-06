@@ -5,7 +5,7 @@
                 <div class="row align-items-center">
                     <!-- Coluna do Texto -->
                     <div class="col-md-6 mb-4 mb-md-0">
-                        <h1 class="mb-4">Açaí</h1>
+                        <h1 class="mb-4">Nosso Açaí</h1>
                         <p>
                            Nosso açaí se destaca pela qualidade premium e autenticidade, inspirando-se em referências como o Açaí da Thay, em Varginha-MG, conhecido por sua cremosidade e sabor marcante.
 	                       Nossas opções vão desde as tradicionais tigelas com granola e frutas frescas até combinações personalizadas com acompanhamentos variados, como leite condensado e castanhas, atendendo a todos os paladares com energia e saúde em cada porção.
@@ -26,36 +26,36 @@
                         <div class="carousel-item active">
                             <div class=" row justify-content-center">
                                 <div class="col-md-8 text-center">
-                                    <img src="_imagens/09_acai.jpeg" height="400" class="img-fluid rounded mb-3" alt="Açaí cremoso suave">
+                                    <img src="_imagens/09_acai.jpeg" class="img-fluid rounded mb-3 imagens-carrosel" alt="Açaí cremoso suave">
                                     <h3>Açaí cremoso suave</h3>
-                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora ad corrupti velit molestiae accusantium est vero sed? Aliquam unde fuga.</p>
+                                    <p>Um açaí leve e refrescante, com textura cremosa e delicada, ideal para quem busca um sabor mais suave.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class=" row justify-content-center">
                                 <div class="col-md-8 text-center">
-                                    <img src="_imagens/08_acai.jpg" height="400" class="img-fluid rounded mb-3" alt="Açaí kids">
+                                    <img src="_imagens/08_acai.jpg"  class="img-fluid rounded mb-3 imagens-carrosel" alt="Açaí kids">
                                     <h3>Açaí kids</h3>
-                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora ad corrupti velit molestiae accusantium est vero sed? Aliquam unde fuga.</p>
+                                    <p>Perfeito para crianças, com porções menores e sabores suaves que tornam cada colherada divertida e deliciosa.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class=" row justify-content-center">
                                 <div class="col-md-8 text-center">
-                                    <img src="_imagens/mag.jpg" height="400" class="img-fluid rounded mb-3" alt="Magnífico Açaí">
+                                    <img src="_imagens/mag.jpg" class="img-fluid rounded mb-3 imagens-carrosel" alt="Magnífico Açaí">
                                     <h3>Magnífico Açaí</h3>
-                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora ad corrupti velit molestiae accusantium est vero sed? Aliquam unde fuga.</p>
+                                    <p>Desfrute de um açaí encorpado e sofisticado, repleto de complementos premium para uma experiência inesquecível.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class=" row justify-content-center">
                                 <div class="col-md-8 text-center">
-                                    <img src="_imagens/comb.jpg" height="400" class="img-fluid rounded mb-3" alt="Combinações ">
+                                    <img src="_imagens/comb.jpg" class="img-fluid rounded mb-3 imagens-carrosel" alt="Combinações ">
                                     <h3>Combinações</h3>
-                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora ad corrupti velit molestiae accusantium est vero sed? Aliquam unde fuga.</p>
+                                    <p>Aproveite nossas promoções exclusivas por tempo limitado, com combinações deliciosas de açaí e acompanhamentos a preços especiais!</p>
                                 </div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                         <span class="visually-hidden">Anterior</span>
                     </button>
                     <button class="carousel-control-next " type="button" data-bs-target="#carroselPrincipal" data-bs-slide="next">
-                        <span class="carousel-control-next-icon botao-proximo"></span>
+                        <span class="carousel-control-next-icon"></span>
                     </button>
                 </div>
             </div>

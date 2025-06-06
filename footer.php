@@ -17,7 +17,7 @@
                         </li>
                         <li class="ms-3">
                             <a href="https://www.ifood.com.br/delivery/varginha-mg/acai-da-thay-jardim-orlandia/9b211048-fdd8-48b9-83ac-06359eca7a19" target="_blank">
-                                <img src="_imagens/untitled.svg" class="img-fluid rounded svg-ifood icone-ifood" alt="Logo Ifood">
+                                <img src="_imagens/ifood_logo_branco.svg" class="img-fluid rounded svg-ifood icone-ifood" alt="Logo Ifood">
                             </a>
                         </li>
                         <li class="ms-3">

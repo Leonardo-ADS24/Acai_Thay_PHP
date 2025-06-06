@@ -20,9 +20,37 @@ h2{
     font-size: 4rem;
 }
 
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: #74009D;
+    font-size: 2rem; 
+}
+
+#carrossel_Produtos p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #212121;
+}
+
+.imagens-carrosel{
+    height: 280px;
+}
+
+.carousel-control-prev-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,<svg xmlns='http://www.w3.org/2000/svg' fill='%2374009D' viewBox='0 0 8 8'><path d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/></svg>");
+}
+
+.carousel-control-next-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,<svg xmlns='http://www.w3.org/2000/svg' fill='%2374009D' viewBox='0 0 8 8'><path d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/></svg>");
+}
+
 .container-link{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     justify-self: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #212121;
 }

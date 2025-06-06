@@ -7,7 +7,7 @@ h1, #Produtos h2{
 
 #Pedidos p, .lead, #Produtos{
     font-family: 'Poppins', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     color: #212121;
 }
 
@@ -39,7 +39,7 @@ h1, #Produtos h2{
 #Nos{
     background-color: #8601B7ff;
     font-family: 'Poppins', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     color: #fff;
 }
 

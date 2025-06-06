@@ -35,7 +35,7 @@
                         <p>Estamos também no iFood onde vocÊ cencontra nosso cardápio completo com descrições detalhadas e com fotos dos nossos saborosos açaí.</p>
                         <p>Seja pelo WhatsApp ou iFood, nosso compromisso é entregar u açaí delicioso, feito com ingredientes de qualidade, para satisfazer seu paladar onde quer que você esteja!</p>
                         <a href="https://web.whatsapp.com/send?phone=5535988421926" class="btn btn-success btn-whatsapp" target="_blank"><i class="bi bi-whatsapp"></i> Peça Pelo WhatsApp</a>
-                        <a href="https://www.ifood.com.br/delivery/varginha-mg/acai-da-thay-jardim-orlandia/9b211048-fdd8-48b9-83ac-06359eca7a19" target="_blank" class="btn btn-danger btn-ifood"> <img src="_imagens/untitled.svg" class="img-fluid rounded svg-ifood" alt="Logo Ifood"  style=" height: 20px; margin-right: 5px; color:white;">Peça pelo iFood</a>
+                        <a href="https://www.ifood.com.br/delivery/varginha-mg/acai-da-thay-jardim-orlandia/9b211048-fdd8-48b9-83ac-06359eca7a19" target="_blank" class="btn btn-danger btn-ifood"> <img src="_imagens/ifood_logo_branco.svg" class="img-fluid rounded svg-ifood" alt="Logo Ifood"  style=" height: 20px; margin-right: 5px; color:white;">Peça pelo iFood</a>
                     </div>
                 </div>
             </div>
@@ -47,10 +47,11 @@
                     <div class="col-md-6 mb-4 mb-md-0">
                         <h2 class="mb-4">Sobre Nós</h2>
                         <p>
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda fuga perspiciatis, ex deleniti eligendi veritatis minima saepe voluptates aut in atque ea quis id iusto earum velit odit, sequi molestiae?
-                           Eius inventore cupiditate a doloribus fuga quia rem vel ad cumque incidunt. Adipisci similique tempora unde qui dignissimos omnis, nam sequi ea numquam! Reiciendis at, nisi iure maxime laborum ab.
+                            Fundada em 2021, nossa açaiteria nasceu de um sonho empreendedor com um delivery artesanal, operado pelo WhatsApp e com entregas feitas pela família.
+                            Apesar dos desafios iniciais que nos levaram a pausar as operações, retornamos com mais experiência e planejamento, tornando-nos parceiros do iFood.
+                            Hoje, oferecemos açaí de qualidade, preparado com carinho, refletindo nossa história de superação e paixão em cada copo.
                         </p>
-                        <a href="sobre.php" class="btn btn-success btn-sobre">Saiba mais sobre Nós</a>
+                        <a href="sobre.php" class="btn btn-success btn-sobre">Saiba mais Sobre Nós</a>
                     </div>
                     <!-- Coluna da Imagem -->
                     <div class="col-md-6 ">
@@ -70,7 +71,12 @@
                     <div class="col-md-6 ">
                         <h2 class="mb-4">Produtos</h2>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ut error sunt totam exercitationem, culpa in amet, odio aspernatur ratione, necessitatibus excepturi ipsam voluptatem consequuntur pariatur autem esse odit praesentium?
+                            No Açaí da Thay, em Varginha-MG, oferecemos uma variedade irresistível de produtos para todos os gostos!
+                            Nossas <strong>Combinações com Desconto (Limitado)</strong> trazem promoções especiais com combinações exclusivas por tempo limitado, perfeitas para quem busca sabor e economia.
+                            O <strong>Magnífico Açaí</strong> é a escolha ideal para os amantes de um açaí encorpado, com acompanhamentos premium que elevam a experiência.
+                            Para os pequenos, o <strong>Açaí Kids</strong> é preparado com porções adequadas e sabores suaves, garantindo diversão e qualidade.
+                            Já o <strong>Açaí Cremoso</strong> Suave oferece uma textura leve e refrescante, ideal para quem prefere um toque mais delicado.
+                            Peça já pelo iFood ou Whatsapp e experimente.
                         </p>
                         <a href="produtos.php" class="btn btn-success btn-produtos">Conheça Nossos Produtos</a>
                     </div>
