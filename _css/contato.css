@@ -1,0 +1,41 @@
+#contato{
+    background-color: #8601B7ff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #fff;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: #fff;
+    font-size: 3rem;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 2.5rem; 
+}
+
+.botao-enviar,.botao-instagram{
+    background-color: #ff6e61;
+    border-color: #ff402f;
+}
+
+.botao-enviar:hover,.botao-instagram:hover{
+    background-color: #ff402f;
+    border-color: #ff402f;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #fff;
+    font-size: 1.5rem; 
+}
+
+.icone-email{
+    font-size: 1.5rem;
+}
