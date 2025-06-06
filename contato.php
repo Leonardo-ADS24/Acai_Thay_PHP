@@ -1,8 +1,8 @@
 <?php  require 'header.php'; ?>
 
     <main>
-        <section id="contato" class="py-5">
-            <div class="container">
+        <section id="contato" class="py-5 pb-7">
+            <div class="container ">
                 <div class="row alingn-items-center">
                     <div class="col-md-6 mb-4 mb-md 0">
                         <h1>Fale Conosco</h1>
@@ -26,9 +26,10 @@
                     <div class="col-md-6">
                         <h2>Redes Sociais</h2>
                         <p>Siga nossa página no Instsgram e fique por dentro das nossas novidades !</p>
-                        <a href="" class="btn btn-primary btn-lg rounded-circle p-3 lh-1 botao-instagram"  target="_blank"><i class="bi bi-instagram fs-3"></i></a>
+                        <a href="https://www.instagram.com/acaidathayofc1/" class="btn btn-primary btn-lg rounded-circle p-3 lh-1 botao-instagram"  target="_blank"><i class="bi bi-instagram fs-3"></i></a>
+                        <br><br>
                         <p>Envie um email para:</p>
-                        <i class="bi bi-envelope-fill fs-3"></i><p><a href="acaidathaycomercial@gmail.com">  acaidathaycomercial@gmail.com</a></p>
+                        <p><i class="bi bi-envelope-fill icone-email"></i><a href="acaidathaycomercial@gmail.com"> acaidathaycomercial@gmail.com</a></p>
                     </div>
                 </div>
             </div>

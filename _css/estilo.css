@@ -86,3 +86,26 @@
 .btn-pedidos:hover{
     background-color: #ff8d83;
 }
+
+footer{
+    background-color: #74009D;
+}
+
+footer p{
+    font-family: 'Poppins', 'sans-serif';
+    font-weight: 600;
+    color: #fff;
+    font-size: 1rem;
+}
+
+footer .icone-whatsapp, .icone-instagram{
+    color: #fff;
+    font-size: 2rem;
+}
+
+footer .icone-ifood{
+    height: 30px;
+    color: #fff;
+    margin-top: 3;
+
+}
