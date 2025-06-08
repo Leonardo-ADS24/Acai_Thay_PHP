@@ -24,12 +24,13 @@
                         </form>
                     </div>
                     <div class="col-md-6">
-                        <h2>Redes Sociais</h2>
-                        <p>Siga nossa página no Instsgram e fique por dentro das nossas novidades !</p>
-                        <a href="https://www.instagram.com/acaidathayofc1/" class="btn btn-primary btn-lg rounded-circle p-3 lh-1 botao-instagram"  target="_blank"><i class="bi bi-instagram fs-3"></i></a>
+                        <h2>Contatos</h2>
+                        <br>
+                        <p>Siga-nos no Instagram para novidades!</p>
+                        <a href="https://www.instagram.com/acaidathayofc1/" class="btn btn-primary btn-lg rounded-circle p-3 lh-1 botao-instagram"  target="_blank"><i class="bi bi-instagram fs-3"></i></a><span>  acaidathayofc1</span>
                         <br><br>
-                        <p>Envie um email para:</p>
-                        <p><i class="bi bi-envelope-fill icone-email"></i><a href="acaidathaycomercial@gmail.com"> acaidathaycomercial@gmail.com</a></p>
+                        <p>Nos chame no WhatsApp para pedidos ou dúvidas:</p>
+                        <p><i class="bi bi-whatsapp icone-whatsapp"></i><a href="#" class="link-whatsapp">  WhatsApp</a></p>
                     </div>
                 </div>
             </div>

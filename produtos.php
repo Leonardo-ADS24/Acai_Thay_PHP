@@ -1,7 +1,7 @@
 <?php require 'header.php' ?>
 
         <section id="sobre_Nos" class="py-5">
-            <div class="container">
+            <div class="container ">
                 <div class="row align-items-center">
                     <!-- Coluna do Texto -->
                     <div class="col-md-6 mb-4 mb-md-0">

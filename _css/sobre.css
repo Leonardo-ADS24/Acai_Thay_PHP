@@ -1,0 +1,43 @@
+
+
+#sobre_Nos p, .sobre{
+    font-family: 'Poppins', 'sans-serif';
+    font-weight: 400;
+    font-size: 1.4rem;
+    color: #000;
+}
+
+.sobre span{
+    color: #74009D;
+    font-weight: bolder;
+}
+
+#sobre_Nos h1, h2{
+    font-family: 'Raleway', 'sans-serif';
+    text-shadow: 1px 1px 3px #ccc;
+    color:#74009D;
+    margin-left: 5%;
+    font-weight: bold;
+    margin-top: 4%;
+}
+
+h1{
+    font-size: 3.5rem;
+    font-weight: 800;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.mvv{
+    font-family: 'Poppins', 'sans-serif';
+    font-weight: 300;
+    font-size: 1.3rem;
+    color: #000;
+}
+
+.mvv span{
+    font-weight: bold;
+}
