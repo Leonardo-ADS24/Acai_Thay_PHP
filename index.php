@@ -9,7 +9,7 @@
                 <img src="_imagens/banner_02.png" class="d-block w-100" alt="Segundo slide">
             </div>
             <div class="carousel-item">
-                <img src="_imagens/slyde03.png" class="d-block w-100" alt="Terceiro slide">
+                <img src="_imagens/Sem título.png" class="d-block w-100" alt="Terceiro slide">
             </div>
         </div>
         <div class="carousel-indicators">
