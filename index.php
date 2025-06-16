@@ -34,7 +34,7 @@
                         <p>Pelo WhatsApp, você pode fazer seu pedido de forma prática e personalizada,conversando diretamente conosco.</p>
                         <p>Estamos também no iFood onde vocÊ cencontra nosso cardápio completo com descrições detalhadas e com fotos dos nossos saborosos açaí.</p>
                         <p>Seja pelo WhatsApp ou iFood, nosso compromisso é entregar u açaí delicioso, feito com ingredientes de qualidade, para satisfazer seu paladar onde quer que você esteja!</p>
-                        <a href="https://web.whatsapp.com/send?phone=5535988421926" class="btn btn-success btn-whatsapp" target="_blank"><i class="bi bi-whatsapp"></i> Peça Pelo WhatsApp</a>
+                        <a href="https://wa.me/5535988421926" class="btn btn-success btn-whatsapp" target="_blank"><i class="bi bi-whatsapp"></i> Peça Pelo WhatsApp</a>
                         <a href="https://www.ifood.com.br/delivery/varginha-mg/acai-da-thay-jardim-orlandia/9b211048-fdd8-48b9-83ac-06359eca7a19" target="_blank" class="btn btn-danger btn-ifood"> <img src="_imagens/ifood_logo_branco.svg" class="img-fluid rounded svg-ifood" alt="Logo Ifood"  style=" height: 20px; margin-right: 5px; color:white;">Peça pelo iFood</a>
                     </div>
                 </div>

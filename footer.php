@@ -11,7 +11,7 @@
                 <div class="col-md-6 d-flex justify-content-end">
                     <ul class="nav list-unstyled d-flex align-items-center mb-0">
                         <li class="ms-3">
-                            <a href="https://web.whatsapp.com/send?phone=5535988421926" target="_blank">
+                            <a href="https://wa.me/5535988421926" target="_blank">
                                 <i class="bi bi-whatsapp icone-whatsapp"></i>
                             </a>
                         </li>
