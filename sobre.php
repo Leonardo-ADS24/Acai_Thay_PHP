@@ -5,9 +5,9 @@
             <div class="container">
                 <div class="clearfix">
                     <h1 class="mb-4 mt-4">Sobre Nós</h1>
-                    <img src="_imagens/sobre_img.png" class="col-md-6 float-md-end mb-3 ms-md-3  img-sobre" alt="...">
+                    <img src="_imagens/sobre_img.jpeg" class="col-md-6 float-md-end mb-3 ms-md-3  img-sobre" alt="...">
                         <p>
-                            Nossa história começou em 2021, quando decidimos empreender no mundo do açaí.
+                            Nossa história começou em 2021, quando decidimos empreender no mundo do açaí. <br>
                             Com muita determinação e poucos recursos, investimos no que podíamos para criar um delivery artesanal, vendendo pelo WhatsApp e contando com a ajuda da família para as entregas.
                         </p>
                         <p>
