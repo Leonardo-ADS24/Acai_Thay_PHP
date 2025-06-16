@@ -7,6 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="_css/estilo.css">
+    <link rel="shortcut icon" href="_imagens/favicon.ico" type="image/x-icon">
     <!-- Utilizando PHP para pegar os arquivos automaticamente do css para a página correspondente -->
     <?php
         $nomePaginaAtual = basename($_SERVER['PHP_SELF']);

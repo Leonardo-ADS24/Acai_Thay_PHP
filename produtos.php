@@ -7,8 +7,12 @@
                     <div class="col-md-6 mb-4 mb-md-0">
                         <h1 class="mb-4">Nosso Açaí</h1>
                         <p>
-                           Nosso açaí se destaca pela qualidade premium e autenticidade, inspirando-se em referências como o Açaí da Thay, em Varginha-MG, conhecido por sua cremosidade e sabor marcante.
-	                       Nossas opções vão desde as tradicionais tigelas com granola e frutas frescas até combinações personalizadas com acompanhamentos variados, como leite condensado e castanhas, atendendo a todos os paladares com energia e saúde em cada porção.
+                           O Açaí da Thay se destaca pelo sabor marcante, cremosidade e o cuidado artesanal em cada copo. Com ingredientes
+                           selecionados e preparo feito com carinho, buscamos oferecer uma experiência única aos nossos clientes.
+                        </p>
+                        <p>
+                            Nosso cardápio conta com uma grande variedade de opções pensadas para agradar a todos os gostos  desde frutas frescas até
+                            combinações personalizadas, que permitem ao cliente montar o açaí do seu jeito, com muito sabor e qualidade.
                         </p>
                     </div>
                     <!-- Coluna da Imagem -->

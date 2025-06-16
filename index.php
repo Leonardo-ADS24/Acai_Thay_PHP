@@ -3,10 +3,10 @@
     <div id="carroselPrincipal" class="carousel slide" data-bs-ride="carousel" data-bs-pause="hover" data-bs-interval="5000">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="_imagens/slyde01.png" class="d-block w-100" alt="Primeiro slide">
+                <img src="_imagens/banner_01.png" class="d-block w-100" alt="Primeiro slide">
             </div>
             <div class="carousel-item">
-                <img src="_imagens/slyde02.png" class="d-block w-100" alt="Segundo slide">
+                <img src="_imagens/banner_02.png" class="d-block w-100" alt="Segundo slide">
             </div>
             <div class="carousel-item">
                 <img src="_imagens/slyde03.png" class="d-block w-100" alt="Terceiro slide">
