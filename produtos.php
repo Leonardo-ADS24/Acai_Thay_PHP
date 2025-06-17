@@ -1,9 +1,10 @@
-<?php require 'header.php' ?>
+<?php require 'header.php' ?> <!-- Esta linha inclui o cabçalho padrão do site -->
 
-        <section id="sobre_Nos" class="py-5">
+        <!-- Seção produtos que conta o diferencial dos nossos produtos ofertados -->
+        <section id="produtos" class="py-5">
             <div class="container ">
                 <div class="row align-items-center">
-                    <!-- Coluna do Texto -->
+                    <!-- Coluna com texto sobre o açaí  -->
                     <div class="col-md-6 mb-4 mb-md-0">
                         <h1 class="mb-4">Nosso Açaí</h1>
                         <p>
@@ -15,18 +16,20 @@
                             combinações personalizadas, que permitem ao cliente montar o açaí do seu jeito, com muito sabor e qualidade.
                         </p>
                     </div>
-                    <!-- Coluna da Imagem -->
+                    <!-- Coluna da imagem representativa do açaí-->
                     <div class="col-md-6 ">
-                        <img src="_imagens/08_acai.jpg" class="d-block mx-auto rounded img-fluid" alt="Açaí da Barra - Nossa História" >
+                        <img src="_imagens/08_acai.jpg" class="d-block mx-auto rounded img-fluid" alt="Açaí da Thay - Imagem representativa" >
                     </div>
                 </div>
             </div>
         </section>
+        <!-- Seção com o carrossel de produtos -->
         <section id="carrossel_Produtos" class="py-5 ">
             <div class="container">
                 <h2 class="text-center mb-5">Nossos Produtos</h2>
                 <div id="carroselPrincipal" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
+                        <!-- Açaí do carrossel : Açaí cremoso suave -->
                         <div class="carousel-item active">
                             <div class=" row justify-content-center">
                                 <div class="col-md-8 text-center">
@@ -36,6 +39,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- Açaí do carrossel : Açaí kids -->
                         <div class="carousel-item">
                             <div class=" row justify-content-center">
                                 <div class="col-md-8 text-center">
@@ -45,6 +49,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- Açaí do carrossel : Magnífico Açaí -->
                         <div class="carousel-item">
                             <div class=" row justify-content-center">
                                 <div class="col-md-8 text-center">
@@ -54,6 +59,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- Açaí do carrossel : Combinações -->
                         <div class="carousel-item">
                             <div class=" row justify-content-center">
                                 <div class="col-md-8 text-center">
@@ -64,6 +70,7 @@
                             </div>
                         </div>
                     </div>
+                    <!-- Controle do carrossel  -->
                     <button class="carousel-control-prev" type="button" data-bs-target="#carroselPrincipal" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Anterior</span>
@@ -74,7 +81,7 @@
                 </div>
             </div>
         </section>
-
+        <!-- Links para pedidos via iFood e WhatsApp -->
         <div class="container-link">
             <a class="link-ifood" href="https://www.ifood.com.br/delivery/varginha-mg/acai-da-thay-jardim-orlandia/9b211048-fdd8-48b9-83ac-06359eca7a19" target="_blank">
                 <img src="_imagens/IFood_logo.svg" alt="Logo do ifood" height="50px" width="auto">
@@ -85,4 +92,4 @@
             </a>
         </div>
 
-<?php require 'footer.php'?>
+<?php require 'footer.php'?> <!-- Esta linha inclui o rodapé padrão do site -->

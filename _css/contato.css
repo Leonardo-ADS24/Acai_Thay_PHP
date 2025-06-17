@@ -19,18 +19,13 @@ h2{
     font-size: 2.5rem; 
 }
 
-.botao-enviar,.botao-instagram{
+.botao-enviar,.botao-personalizado{
     background-color: #8601B7ff;
     border-color: #8601B7ff;
 }
 
-.icone-whatsapp{
-    font-size: 4rem;
-    color:#25D366	;
-    
-}
 
-.botao-enviar:hover,.botao-instagram:hover{
+.botao-enviar:hover,.botao-personalizado:hover{
     background-color: #690190;
     border-color: #690190;
 }
@@ -42,11 +37,11 @@ h2{
     font-size: 1.5rem; 
 }
 
-.link-whatsapp, span{
+span{
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     color: #690190;
-    font-size: 1.7rem; 
+    font-size: 2rem; 
     font-style: italic;
     text-decoration: none;
 }

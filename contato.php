@@ -28,10 +28,11 @@
                         <h2>Contatos</h2>
                         <br>
                         <p>Siga-nos no Instagram para novidades!</p>
-                        <a href="https://www.instagram.com/acaidathayofc1/" class="btn btn-primary btn-lg rounded-circle p-3 lh-1 botao-instagram"  target="_blank"><i class="bi bi-instagram fs-3"></i></a><span>  acaidathayofc1</span>
+                        <a href="https://www.instagram.com/acaidathayofc1/" class="btn btn-primary btn-lg rounded-circle p-3 lh-1 botao-personalizado"  target="_blank"><i class="bi bi-instagram fs-3"></i></a><span>  acaidathayofc1</span>
                         <br><br>
                         <p>Nos chame no WhatsApp para pedidos ou dúvidas:</p>
-                        <p><i class="bi bi-whatsapp icone-whatsapp"></i><a href="https://wa.me/5535988916047" target="_blank" class="link-whatsapp">  988916047</a></p>
+                        <a href="https://wa.me/5535988916047" class="btn btn-primary btn-lg rounded-circle p-3 lh-1 botao-personalizado"  target="_blank"><i class="bi bi-whatsapp fs-3"></i></a><span> (35)988916047</span>
+                        <br><br>
                     </div>
                 </div>
             </div>

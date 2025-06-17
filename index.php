@@ -1,17 +1,22 @@
-<?php require 'header.php' ?>
+<?php require 'header.php' ?> <!-- Esta linha inclui o cabçalho padrão do site -->
 
+    <!-- Carrossel principal da página inicial -->
     <div id="carroselPrincipal" class="carousel slide" data-bs-ride="carousel" data-bs-pause="hover" data-bs-interval="5000">
         <div class="carousel-inner">
+            <!-- Primeira imagem do carrossel -->
             <div class="carousel-item active">
                 <img src="_imagens/banner_01.png" class="d-block w-100" alt="Primeiro slide">
             </div>
+            <!-- Segunda imagem do carrossel -->
             <div class="carousel-item">
                 <img src="_imagens/banner_02.png" class="d-block w-100" alt="Segundo slide">
             </div>
+            <!-- Terceira imagem do carrossel -->
             <div class="carousel-item">
-                <img src="_imagens/Sem título.png" class="d-block w-100" alt="Terceiro slide">
+                <img src="_imagens/banner_03.png" class="d-block w-100" alt="Terceiro slide">
             </div>
         </div>
+        <!-- Controle do carrossel  -->
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carroselPrincipal" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carroselPrincipal" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -19,9 +24,10 @@
         </div>
     </div>
     <main>
+        <!-- Seção para links de pedidos online -->
         <section id="Pedidos" class="py-5">
             <div class="container">
-                <div class="row aling-items-center">
+                <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-md-0">
                         <img src="_imagens/IFood_logo.svg" class="img-fluid rounded" alt="Logo Ifood"  width="250px"> <br>
                         <img src="_imagens/whatsapp_logo.svg" class="img-fluid rounded" alt="Logo Watsapp" width="250px">
@@ -34,16 +40,16 @@
                         <p>Pelo WhatsApp, você pode fazer seu pedido de forma prática e personalizada,conversando diretamente conosco.</p>
                         <p>Estamos também no iFood onde você encontra nosso cardápio completo com descrições detalhadas e com fotos dos nossos saborosos açaí.</p>
                         <p>Seja pelo WhatsApp ou iFood, nosso compromisso é entregar um açaí delicioso, feito com ingredientes de qualidade, para satisfazer seu paladar onde quer que você esteja!</p>
-                        <a href="https://web.whatsapp.com/send?phone=5535988421926" class="btn btn-success btn-whatsapp" target="_blank"><i class="bi bi-whatsapp"></i> Peça Pelo WhatsApp</a>
+                        <a href="https://wa.me/5535988916047" class="btn btn-success btn-whatsapp" target="_blank"><i class="bi bi-whatsapp"></i> Peça Pelo WhatsApp</a>
                         <a href="https://www.ifood.com.br/delivery/varginha-mg/acai-da-thay-jardim-orlandia/9b211048-fdd8-48b9-83ac-06359eca7a19" target="_blank" class="btn btn-danger btn-ifood"> <img src="_imagens/ifood_logo_branco.svg" class="img-fluid rounded svg-ifood" alt="Logo Ifood"  style=" height: 20px; margin-right: 5px; color:white;">Peça pelo iFood</a>
                     </div>
                 </div>
             </div>
         </section>
+        <!-- Seção "Sobre Nós" com resumo da história da empresa -->
         <section id="Nos" class="py-5">
             <div class="container">
                 <div class="row align-items-center">
-                    <!-- Coluna do Texto -->
                     <div class="col-md-6 mb-4 mb-md-0">
                         <h2 class="mb-4">Sobre Nós</h2>
                         <p>
@@ -53,21 +59,19 @@
                         </p>
                         <a href="sobre.php" class="btn btn-success btn-sobre">Saiba mais Sobre Nós</a>
                     </div>
-                    <!-- Coluna da Imagem -->
                     <div class="col-md-6 ">
-                        <img src="_imagens/08_acai.jpg" class="d-block mx-auto rounded img-fluid" alt="Açaí da Barra - Nossa História" >
+                        <img src="_imagens/08_acai.jpg" class="d-block mx-auto rounded img-fluid" alt="Açaí da Thay Imagem representstiva - Sobre Nós" >
                     </div>
                 </div>
             </div>
         </section>
+        <!-- Seção de apresentação dos produtos -->
         <section id="Produtos" class="py-5">
             <div class="container">
                 <div class="row align-items-center">
-                    <!-- Coluna do Texto -->
                     <div class="col-md-6 mb-4 mb-md-0">
-                        <img src="_imagens/09_acai.jpeg" class="d-block mx-auto rounded img-fluid" alt="Açaí da Barra - Nossa História" >
+                        <img src="_imagens/09_acai.jpeg" class="d-block mx-auto rounded img-fluid" alt="Açaí da Thay Imagem representstiva - Produtos" >
                     </div>
-                    <!-- Coluna da Imagem -->
                     <div class="col-md-6 ">
                         <h2 class="mb-4">Produtos</h2>
                         <p>
@@ -84,4 +88,4 @@
             </div>
         </section>
     </main>
-<?php require 'footer.php' ?>
+<?php require 'footer.php' ?> <!-- Esta linha inclui o rodapé padrão do site -->

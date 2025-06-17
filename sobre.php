@@ -1,11 +1,12 @@
-<?php require 'header.php'; ?>
+<?php require 'header.php'; ?> <!-- Esta linha inclui o cabçalho padrão do site -->
 
     <main>
+        <!-- Seção sobre nós conta a história da empresa -->
         <section id="sobre_Nos">
             <div class="container">
                 <div class="clearfix">
                     <h1 class="mb-4 mt-4">Sobre Nós</h1>
-                    <img src="_imagens/sobre_img.jpeg" class="col-md-6 float-md-end mb-3 ms-md-3  img-sobre" alt="...">
+                    <img src="_imagens/sobre_img.jpeg" class="col-md-6 float-md-end mb-3 ms-md-3  img-sobre" alt="Imagens representativas dos açaís da empresa">
                         <p>
                             Nossa história começou em 2021, quando decidimos empreender no mundo do açaí. <br>
                             Com muita determinação e poucos recursos, investimos no que podíamos para criar um delivery artesanal, vendendo pelo WhatsApp e contando com a ajuda da família para as entregas.
@@ -22,6 +23,7 @@
             <div class="container text-center sobre">
                 <p>Aqui, cada copo de açaí carrega uma história de superação e paixão pelo que fazemos.<br><span>Seja bem-vindo à nossa açaiteria!</span></p>
             </div>
+        <!-- Seção com missão, visão e valores da empresa -->
         <section>
             <div class="container text-center mvv">
                 <h2>Valores</h2>
@@ -49,9 +51,4 @@
         </section>
     </main>
 
-
-
-
-
-
-<?php require 'footer.php'; ?>
+<?php require 'footer.php'; ?> <!-- Esta linha inclui o rodapé padrão do site -->
