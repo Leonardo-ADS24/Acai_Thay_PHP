@@ -87,7 +87,7 @@
                 <img src="_imagens/IFood_logo.svg" alt="Logo do ifood" height="50px" width="auto">
             </a>
             <p>Refresque seu dia com nosso açaí.<br>Peça agora pelo iFood ou Whatsapp</p>
-            <a href="https://wa.me/5535988421926" target="_blank" aria-label="Fazer pedido pelo WhatsApp">
+            <a href="https://wa.me/5535988916047" target="_blank" aria-label="Fazer pedido pelo WhatsApp">
                 <img src="_imagens/whatsapp_logo.svg" alt="Logo do whatsapp" height="60px" width="auto">
             </a>
         </div>
